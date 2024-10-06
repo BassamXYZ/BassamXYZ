@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/Bassam_XYZ" target="blank"><img src="https://img.shields.io/twitter/follow/Bassam_XYZ?logo=twitter&style=for-the-badge" alt="Bassam_XYZ" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bassamahmad.netlify.app](https://bassamahmad.netlify.app)
+- 👨‍💻 My Portfolio [https://bassamahmad.netlify.app](https://bassamahmad.netlify.app)
+
+- 👨‍💻 My Blog [https://bassamahmad.netlify.app/en/blog](https://bassamahmad.netlify.app/en/blog)
 
 - 💬 Ask me about **react, flask, astro and nextjs**
 
