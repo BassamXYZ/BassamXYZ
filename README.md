@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently deepening my knowledge in **Deep Reinforcement Learning for robotic manipulation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BassamXYZ](https://github.com/BassamXYZ)
+- 👨‍💻 You can find my portfolio and blog at [bassamahmad.com](https://bassamahmad.com)
 
 - 💬 Ask me about **Robotics, Computer Vision, Reinforcement Learning, and ROS**
 
 - 📫 How to reach me **contact@bassamahmad.com**
-
-- ⚡ Fun fact **I believe the perfect robot should learn from its mistakes, just like humans do!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
